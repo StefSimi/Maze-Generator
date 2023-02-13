@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652378813 source:c:\users\stefan\desktop\programming\c++\tema backtracking\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
